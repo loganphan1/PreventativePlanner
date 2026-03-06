@@ -1,6 +1,6 @@
 ﻿# Preventative Care Planner
  
-##Overview
+## Overview
 The Preventative Care Planner is a mobile app designed to help users be proactive about their health by providing personalized healthcare recommendations. Users will enter their personal information, and the application will create recommended checkups,vaccinations, screenings, and etc. to catch illness early.
 
 ## Architecture Overview
@@ -17,4 +17,5 @@ type "npm run build" into terminal
 type "npm start" into terminal
 4. Test project
 type "npm test" into terminal
+
 
